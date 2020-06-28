@@ -1,4 +1,5 @@
 '''
+  @difficulty: medium
   @topics: memoization, dynamic programming, arrays
 '''
 class Solution:
