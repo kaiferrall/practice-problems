@@ -4,3 +4,16 @@
 {month}{day}-{problem_number}
 
 (Most problems from LeetCode.)
+
+
+<h1>Topics Covered</h1>
+
+<h4>BFS:</h4>
+<p>problems: 3</p>
+
+<h4>Stacs & Queues:</h4>
+<p>problems: 4</p>
+
+<h4>Dynamic Programming:</h4>
+<p>problems: 4</p>
+
