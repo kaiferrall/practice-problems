@@ -17,3 +17,5 @@
 <h4>Dynamic Programming:</h4>
 <p>problems: 4</p>
 
+<h4>Binary Search:</h4>
+<p>problems: 1</p>
