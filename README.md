@@ -19,3 +19,6 @@
 
 <h4>Binary Search:</h4>
 <p>problems: 1</p>
+
+<h4>Backtracking:</h4>
+<p>problems: 1</p>
